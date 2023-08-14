@@ -1,3 +1,4 @@
+import 'slim-select/dist/slimselect.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import { Report } from 'notiflix/build/notiflix-report-aio';
 import SlimSelect from 'slim-select';
